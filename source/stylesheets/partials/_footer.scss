@@ -1,0 +1,13 @@
+@import "../modules/colors";
+
+footer {
+  width: 100%;
+  padding: 5% 0;
+  background-color: black;
+  div {
+    p {
+      text-align: center;
+      color: $white;
+    }
+  }
+}
